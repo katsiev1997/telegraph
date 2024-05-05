@@ -19,6 +19,7 @@ class Bot {
       command.handle();
     }
     this.bot.launch();
+    console.log("Bot started");
   }
 }
 
